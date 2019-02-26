@@ -1,7 +1,0 @@
-Sunset:					2018-12-25 15:09
-Civil Twilight:			2018-12-25 15:42
-Astronomical Twilight:	2018-12-25 16:44
-Midnight:				2018-12-25 22:20
-Astronomical Dawn:		2018-12-26 03:56
-Civil Dawn:				2018-12-26 04:58
-Sunrise:				2018-12-26 05:32
