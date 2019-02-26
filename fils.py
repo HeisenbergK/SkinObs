@@ -6,8 +6,8 @@ def effwav(fil):
     
 def observatoryephem(obs):
     names = ['skinakas', 'roque', 'helmos']
-    lats = [35.2119, 28.7606, 37.9844] # north
-    lons = [24.8992, -17.8816, 22.1961] # east
-    heights = [1750.0, 2326.0, 2340.0]
+    lats = [35.2119, 28.7606, 37.9844, 37.9719] # north
+    lons = [24.8992, -17.8816, 22.1961, 22.6186] # east
+    heights = [1750.0, 2326.0, 2340.0, 930.0] # meters
     if obs in names:
         return [lats[names.index(obs)], lons[names.index(obs)], heights[names.index(obs)]]
