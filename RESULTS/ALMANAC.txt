@@ -1,7 +1,0 @@
-Sunset:					2019-09-30 16:02
-Civil Twilight:			2019-09-30 16:31
-Astronomical Twilight:	2019-09-30 17:30
-Midnight:				2019-09-30 22:10
-Astronomical Dawn:		2019-10-01 02:49
-Civil Dawn:				2019-10-01 03:50
-Sunrise:				2019-10-01 04:18
